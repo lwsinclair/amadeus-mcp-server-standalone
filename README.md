@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/privilegemendes-amadeus-mcp-server-standalone-badge.png)](https://mseep.ai/app/privilegemendes-amadeus-mcp-server-standalone)
+
 # Amadeus MCP Server
 
 This is a Model Context Protocol (MCP) server that connects to the Amadeus API to provide flight search, booking, and analysis capabilities for AI assistants.
